@@ -1,0 +1,24 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: rgb(69, 202, 255);
+}
+
+#area{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    margin: auto;
+    position: relative;
+    background: white;
+}
+
+button{
+    border: none;
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(216, 0, 65);
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+}
